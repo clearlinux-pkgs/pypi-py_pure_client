@@ -1,0 +1,10 @@
+1.22.0
+pypi(certifi)
+pypi(paramiko)
+pypi(pyjwt)
+pypi(python_dateutil)
+pypi(requests)
+pypi(setuptools)
+pypi(six)
+pypi(typing)
+pypi(urllib3)
